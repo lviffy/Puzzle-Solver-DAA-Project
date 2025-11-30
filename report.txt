@@ -1,0 +1,87 @@
+================================================================================
+8-PUZZLE BRANCH AND BOUND SOLVER - EXPERIMENT REPORT
+================================================================================
+
+SUMMARY TABLE
+--------------------------------------------------------------------------------
+Heuristic                 Avg Time        Avg Ratio       Avg Nodes      
+--------------------------------------------------------------------------------
+H1: Trivial (h=0)         8.662045        0.0000          30790.1        
+H2: Misplaced Tiles       0.442095        0.4243          3918.3         
+H3: Manhattan Distance    0.008988        0.5447          577.2          
+H4: Linear Conflict       0.005697        0.5718          331.2          
+
+================================================================================
+
+HEURISTIC DESCRIPTIONS
+--------------------------------------------------------------------------------
+
+H1: Trivial Heuristic (h=0)
+  - Always returns 0
+  - Represents uninformed search (Uniform Cost Search)
+  - Expected to be slowest as it provides no guidance
+  - Baseline for comparison
+
+H2: Misplaced Tiles Heuristic
+  - Counts the number of tiles not in their correct position
+  - Ignores the empty space (0)
+  - Range: 0 to 8
+  - Admissible and consistent
+  - More informative than H1 but still loose
+
+H3: Manhattan Distance Heuristic
+  - Sum of Manhattan distances of each tile to its goal position
+  - Manhattan distance = |row_diff| + |col_diff|
+  - Range: 0 to 24
+  - Admissible and consistent
+  - Better lower bound than H2
+
+H4: Linear Conflict Heuristic
+  - Manhattan distance + 2 × (number of linear conflicts)
+  - A linear conflict occurs when two tiles are in the same row/column
+    as their goal position but in reverse order
+  - Tighter lower bound than Manhattan distance
+  - Most expensive to compute but should give best search performance
+
+================================================================================
+
+PERFORMANCE ANALYSIS
+--------------------------------------------------------------------------------
+Fastest heuristic: H4: Linear Conflict
+  Average time: 0.005697 seconds
+
+Best ratio (tightest lower bound): H2: Misplaced Tiles
+  Average ratio: 0.4243
+
+Fewest nodes expanded: H4: Linear Conflict
+  Average nodes: 331.2
+
+================================================================================
+
+OBSERVATIONS AND INSIGHTS
+--------------------------------------------------------------------------------
+
+The experiment demonstrates the importance of good heuristics in guided search:
+
+1. H1 (Trivial) provides no guidance and typically explores many nodes
+   This is essentially breadth-first search by cost
+
+2. H2 (Misplaced Tiles) provides weak guidance but is fast to compute
+   Improves significantly over H1
+
+3. H3 (Manhattan Distance) provides much tighter bounds
+   Dramatically reduces search time compared to H2
+   This is a commonly used heuristic for 8-puzzle
+
+4. H4 (Linear Conflict) provides the tightest bounds
+   More expensive to compute but explores far fewer nodes
+   Best overall search performance
+
+The ratio (average lower bound / optimal cost) indicates bound tightness:
+- Ratio close to 1 = very tight bound = efficient search
+- Ratio >> 1 = loose bound = inefficient search
+
+These results validate the core principle of informed search:
+better heuristics lead to more efficient algorithms.
+
+================================================================================

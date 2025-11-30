@@ -1,0 +1,3626 @@
+{
+  "H1: Trivial (h=0)": {
+    "successful_count": 100,
+    "total_count": 100,
+    "statistics": [
+      {
+        "solution_found": true,
+        "solution_length": 12,
+        "nodes_expanded": 2480,
+        "optimal_cost": 12,
+        "execution_time": 0.03981614112854004,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 61972,
+        "optimal_cost": 20,
+        "execution_time": 15.797576189041138,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 1149,
+        "optimal_cost": 10,
+        "execution_time": 0.008504629135131836,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 9,
+        "nodes_expanded": 579,
+        "optimal_cost": 9,
+        "execution_time": 0.002736806869506836,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 26336,
+        "optimal_cost": 17,
+        "execution_time": 3.1717443466186523,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 27781,
+        "optimal_cost": 17,
+        "execution_time": 3.488297462463379,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 22,
+        "nodes_expanded": 108616,
+        "optimal_cost": 22,
+        "execution_time": 41.306175231933594,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 23307,
+        "optimal_cost": 17,
+        "execution_time": 2.5779151916503906,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 8,
+        "nodes_expanded": 378,
+        "optimal_cost": 8,
+        "execution_time": 0.0014789104461669922,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 31136,
+        "optimal_cost": 18,
+        "execution_time": 4.436710596084595,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 27692,
+        "optimal_cost": 18,
+        "execution_time": 3.3146915435791016,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 11,
+        "nodes_expanded": 1482,
+        "optimal_cost": 11,
+        "execution_time": 0.01493382453918457,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 27,
+        "nodes_expanded": 179970,
+        "optimal_cost": 27,
+        "execution_time": 77.08267331123352,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 12,
+        "nodes_expanded": 2813,
+        "optimal_cost": 12,
+        "execution_time": 0.04729127883911133,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 13355,
+        "optimal_cost": 16,
+        "execution_time": 0.819380521774292,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 946,
+        "optimal_cost": 10,
+        "execution_time": 0.00636744499206543,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 15,
+        "nodes_expanded": 10853,
+        "optimal_cost": 15,
+        "execution_time": 0.5395793914794922,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 64874,
+        "optimal_cost": 20,
+        "execution_time": 17.251925945281982,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 19145,
+        "optimal_cost": 16,
+        "execution_time": 1.7141506671905518,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 32611,
+        "optimal_cost": 18,
+        "execution_time": 4.684595584869385,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 23,
+        "nodes_expanded": 126522,
+        "optimal_cost": 23,
+        "execution_time": 52.041417837142944,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 16613,
+        "optimal_cost": 16,
+        "execution_time": 1.1895782947540283,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 19,
+        "nodes_expanded": 51119,
+        "optimal_cost": 19,
+        "execution_time": 10.760283470153809,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 12,
+        "nodes_expanded": 2792,
+        "optimal_cost": 12,
+        "execution_time": 0.04291367530822754,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 9,
+        "nodes_expanded": 667,
+        "optimal_cost": 9,
+        "execution_time": 0.0032129287719726562,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 5,
+        "nodes_expanded": 73,
+        "optimal_cost": 5,
+        "execution_time": 0.0001609325408935547,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 14,
+        "nodes_expanded": 7174,
+        "optimal_cost": 14,
+        "execution_time": 0.23265504837036133,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 9,
+        "nodes_expanded": 571,
+        "optimal_cost": 9,
+        "execution_time": 0.0025854110717773438,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 19,
+        "nodes_expanded": 46085,
+        "optimal_cost": 19,
+        "execution_time": 9.121612787246704,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 16520,
+        "optimal_cost": 16,
+        "execution_time": 1.2595977783203125,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 24764,
+        "optimal_cost": 17,
+        "execution_time": 2.755230188369751,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 17266,
+        "optimal_cost": 16,
+        "execution_time": 1.3554730415344238,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 14,
+        "nodes_expanded": 7223,
+        "optimal_cost": 14,
+        "execution_time": 0.27069091796875,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 26125,
+        "optimal_cost": 17,
+        "execution_time": 2.96286940574646,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 14,
+        "nodes_expanded": 5172,
+        "optimal_cost": 14,
+        "execution_time": 0.14117002487182617,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 19,
+        "nodes_expanded": 53209,
+        "optimal_cost": 19,
+        "execution_time": 11.969359636306763,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 839,
+        "optimal_cost": 10,
+        "execution_time": 0.004889249801635742,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 66252,
+        "optimal_cost": 20,
+        "execution_time": 17.50664258003235,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 26718,
+        "optimal_cost": 17,
+        "execution_time": 3.2552707195281982,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 950,
+        "optimal_cost": 10,
+        "execution_time": 0.006125450134277344,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 22,
+        "nodes_expanded": 116873,
+        "optimal_cost": 22,
+        "execution_time": 46.1667423248291,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 5,
+        "nodes_expanded": 71,
+        "optimal_cost": 5,
+        "execution_time": 0.00021767616271972656,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 15,
+        "nodes_expanded": 9543,
+        "optimal_cost": 15,
+        "execution_time": 0.466796875,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 66952,
+        "optimal_cost": 20,
+        "execution_time": 17.941388845443726,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 20893,
+        "optimal_cost": 17,
+        "execution_time": 1.9325485229492188,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 32957,
+        "optimal_cost": 18,
+        "execution_time": 4.572901248931885,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 1052,
+        "optimal_cost": 10,
+        "execution_time": 0.0070226192474365234,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 14,
+        "nodes_expanded": 6728,
+        "optimal_cost": 14,
+        "execution_time": 0.2406480312347412,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 12,
+        "nodes_expanded": 1917,
+        "optimal_cost": 12,
+        "execution_time": 0.021558761596679688,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 15,
+        "nodes_expanded": 9620,
+        "optimal_cost": 15,
+        "execution_time": 0.43715381622314453,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 5,
+        "nodes_expanded": 80,
+        "optimal_cost": 5,
+        "execution_time": 0.00023508071899414062,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 11,
+        "nodes_expanded": 1311,
+        "optimal_cost": 11,
+        "execution_time": 0.011263847351074219,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 15046,
+        "optimal_cost": 16,
+        "execution_time": 1.0421788692474365,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 6,
+        "nodes_expanded": 96,
+        "optimal_cost": 6,
+        "execution_time": 0.0002880096435546875,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 61775,
+        "optimal_cost": 20,
+        "execution_time": 15.659503936767578,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 26457,
+        "optimal_cost": 17,
+        "execution_time": 3.1333889961242676,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 5,
+        "nodes_expanded": 63,
+        "optimal_cost": 5,
+        "execution_time": 0.0001766681671142578,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 2,
+        "nodes_expanded": 14,
+        "optimal_cost": 2,
+        "execution_time": 2.956390380859375e-05,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 14,
+        "nodes_expanded": 6251,
+        "optimal_cost": 14,
+        "execution_time": 0.18834352493286133,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 22,
+        "nodes_expanded": 113756,
+        "optimal_cost": 22,
+        "execution_time": 44.09742045402527,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 1267,
+        "optimal_cost": 10,
+        "execution_time": 0.010059595108032227,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 7,
+        "nodes_expanded": 221,
+        "optimal_cost": 7,
+        "execution_time": 0.0006604194641113281,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 11,
+        "nodes_expanded": 1778,
+        "optimal_cost": 11,
+        "execution_time": 0.01747584342956543,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 29209,
+        "optimal_cost": 18,
+        "execution_time": 3.8001153469085693,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 11,
+        "nodes_expanded": 1375,
+        "optimal_cost": 11,
+        "execution_time": 0.010954618453979492,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 8,
+        "nodes_expanded": 340,
+        "optimal_cost": 8,
+        "execution_time": 0.00113677978515625,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 13,
+        "nodes_expanded": 3887,
+        "optimal_cost": 13,
+        "execution_time": 0.07586956024169922,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 24,
+        "nodes_expanded": 159111,
+        "optimal_cost": 24,
+        "execution_time": 70.21806979179382,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 55497,
+        "optimal_cost": 20,
+        "execution_time": 13.343692779541016,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 8,
+        "nodes_expanded": 338,
+        "optimal_cost": 8,
+        "execution_time": 0.0012464523315429688,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 8,
+        "nodes_expanded": 326,
+        "optimal_cost": 8,
+        "execution_time": 0.0011250972747802734,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 9,
+        "nodes_expanded": 505,
+        "optimal_cost": 9,
+        "execution_time": 0.002183198928833008,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 23,
+        "nodes_expanded": 136468,
+        "optimal_cost": 23,
+        "execution_time": 56.93741226196289,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 21,
+        "nodes_expanded": 84474,
+        "optimal_cost": 21,
+        "execution_time": 26.775821447372437,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 7,
+        "nodes_expanded": 260,
+        "optimal_cost": 7,
+        "execution_time": 0.0008456707000732422,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 31534,
+        "optimal_cost": 18,
+        "execution_time": 3.9767119884490967,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 15,
+        "nodes_expanded": 11171,
+        "optimal_cost": 15,
+        "execution_time": 0.5489280223846436,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 13,
+        "nodes_expanded": 5058,
+        "optimal_cost": 13,
+        "execution_time": 0.1290285587310791,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 14490,
+        "optimal_cost": 16,
+        "execution_time": 0.9154012203216553,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 69481,
+        "optimal_cost": 20,
+        "execution_time": 18.475187063217163,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 12040,
+        "optimal_cost": 16,
+        "execution_time": 0.6616997718811035,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 22,
+        "nodes_expanded": 98118,
+        "optimal_cost": 22,
+        "execution_time": 33.30081558227539,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 24,
+        "nodes_expanded": 145092,
+        "optimal_cost": 24,
+        "execution_time": 60.714808225631714,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 65526,
+        "optimal_cost": 20,
+        "execution_time": 17.253632307052612,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 9,
+        "nodes_expanded": 651,
+        "optimal_cost": 9,
+        "execution_time": 0.003123044967651367,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 19,
+        "nodes_expanded": 45881,
+        "optimal_cost": 19,
+        "execution_time": 8.636714935302734,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 22,
+        "nodes_expanded": 110600,
+        "optimal_cost": 22,
+        "execution_time": 40.780372619628906,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 21,
+        "nodes_expanded": 83969,
+        "optimal_cost": 21,
+        "execution_time": 26.12213683128357,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 1109,
+        "optimal_cost": 10,
+        "execution_time": 0.0077021121978759766,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 24563,
+        "optimal_cost": 17,
+        "execution_time": 2.6634469032287598,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 5,
+        "nodes_expanded": 89,
+        "optimal_cost": 5,
+        "execution_time": 0.0003027915954589844,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 19,
+        "nodes_expanded": 49743,
+        "optimal_cost": 19,
+        "execution_time": 10.170541048049927,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 12,
+        "nodes_expanded": 2869,
+        "optimal_cost": 12,
+        "execution_time": 0.053507089614868164,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 13,
+        "nodes_expanded": 5066,
+        "optimal_cost": 13,
+        "execution_time": 0.12290740013122559,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 38267,
+        "optimal_cost": 18,
+        "execution_time": 6.240131139755249,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 14,
+        "nodes_expanded": 5533,
+        "optimal_cost": 14,
+        "execution_time": 0.14218664169311523,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 19,
+        "nodes_expanded": 44033,
+        "optimal_cost": 19,
+        "execution_time": 7.833491325378418,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 21,
+        "nodes_expanded": 87685,
+        "optimal_cost": 21,
+        "execution_time": 27.50698471069336,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 17141,
+        "optimal_cost": 16,
+        "execution_time": 1.3074688911437988,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      },
+      {
+        "solution_found": true,
+        "solution_length": 15,
+        "nodes_expanded": 8664,
+        "optimal_cost": 15,
+        "execution_time": 0.332472562789917,
+        "average_lower_bound": 0.0,
+        "ratio": 0.0
+      }
+    ]
+  },
+  "H2: Misplaced Tiles": {
+    "successful_count": 100,
+    "total_count": 100,
+    "statistics": [
+      {
+        "solution_found": true,
+        "solution_length": 12,
+        "nodes_expanded": 167,
+        "optimal_cost": 12,
+        "execution_time": 0.0007076263427734375,
+        "average_lower_bound": 5.449101796407185,
+        "ratio": 0.4540918163672654
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 4671,
+        "optimal_cost": 20,
+        "execution_time": 0.11017131805419922,
+        "average_lower_bound": 6.815671162491972,
+        "ratio": 0.3407835581245986
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 79,
+        "optimal_cost": 10,
+        "execution_time": 0.00029397010803222656,
+        "average_lower_bound": 5.151898734177215,
+        "ratio": 0.5151898734177215
+      },
+      {
+        "solution_found": true,
+        "solution_length": 9,
+        "nodes_expanded": 49,
+        "optimal_cost": 9,
+        "execution_time": 0.00015997886657714844,
+        "average_lower_bound": 4.938775510204081,
+        "ratio": 0.5487528344671202
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 1652,
+        "optimal_cost": 17,
+        "execution_time": 0.017138242721557617,
+        "average_lower_bound": 6.217917675544794,
+        "ratio": 0.36575986326734083
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 1328,
+        "optimal_cost": 17,
+        "execution_time": 0.011371612548828125,
+        "average_lower_bound": 6.659638554216867,
+        "ratio": 0.3917434443656981
+      },
+      {
+        "solution_found": true,
+        "solution_length": 22,
+        "nodes_expanded": 15586,
+        "optimal_cost": 22,
+        "execution_time": 1.096679925918579,
+        "average_lower_bound": 6.60644167842936,
+        "ratio": 0.3002928035649709
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 1558,
+        "optimal_cost": 17,
+        "execution_time": 0.017191171646118164,
+        "average_lower_bound": 6.319640564826701,
+        "ratio": 0.37174356263686475
+      },
+      {
+        "solution_found": true,
+        "solution_length": 8,
+        "nodes_expanded": 34,
+        "optimal_cost": 8,
+        "execution_time": 0.00014209747314453125,
+        "average_lower_bound": 4.5588235294117645,
+        "ratio": 0.5698529411764706
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 2284,
+        "optimal_cost": 18,
+        "execution_time": 0.03334546089172363,
+        "average_lower_bound": 6.203590192644484,
+        "ratio": 0.3446438995913602
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 2181,
+        "optimal_cost": 18,
+        "execution_time": 0.03195381164550781,
+        "average_lower_bound": 6.359009628610729,
+        "ratio": 0.35327831270059606
+      },
+      {
+        "solution_found": true,
+        "solution_length": 11,
+        "nodes_expanded": 110,
+        "optimal_cost": 11,
+        "execution_time": 0.00046443939208984375,
+        "average_lower_bound": 5.572727272727272,
+        "ratio": 0.5066115702479338
+      },
+      {
+        "solution_found": true,
+        "solution_length": 27,
+        "nodes_expanded": 76842,
+        "optimal_cost": 27,
+        "execution_time": 23.410282373428345,
+        "average_lower_bound": 6.999687670805028,
+        "ratio": 0.25924769151129734
+      },
+      {
+        "solution_found": true,
+        "solution_length": 12,
+        "nodes_expanded": 130,
+        "optimal_cost": 12,
+        "execution_time": 0.00046706199645996094,
+        "average_lower_bound": 5.984615384615385,
+        "ratio": 0.4987179487179487
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 942,
+        "optimal_cost": 16,
+        "execution_time": 0.006966590881347656,
+        "average_lower_bound": 6.174097664543525,
+        "ratio": 0.3858811040339703
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 44,
+        "optimal_cost": 10,
+        "execution_time": 0.00015354156494140625,
+        "average_lower_bound": 5.4772727272727275,
+        "ratio": 0.5477272727272727
+      },
+      {
+        "solution_found": true,
+        "solution_length": 15,
+        "nodes_expanded": 650,
+        "optimal_cost": 15,
+        "execution_time": 0.00397491455078125,
+        "average_lower_bound": 6.030769230769231,
+        "ratio": 0.40205128205128204
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 4739,
+        "optimal_cost": 20,
+        "execution_time": 0.12334418296813965,
+        "average_lower_bound": 6.774213969191813,
+        "ratio": 0.3387106984595906
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 1133,
+        "optimal_cost": 16,
+        "execution_time": 0.009793996810913086,
+        "average_lower_bound": 6.154457193292145,
+        "ratio": 0.38465357458075905
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 1967,
+        "optimal_cost": 18,
+        "execution_time": 0.02530360221862793,
+        "average_lower_bound": 6.575495678698526,
+        "ratio": 0.36530531548325146
+      },
+      {
+        "solution_found": true,
+        "solution_length": 23,
+        "nodes_expanded": 20480,
+        "optimal_cost": 23,
+        "execution_time": 1.9810616970062256,
+        "average_lower_bound": 6.688232421875,
+        "ratio": 0.29079271399456524
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 884,
+        "optimal_cost": 16,
+        "execution_time": 0.005591154098510742,
+        "average_lower_bound": 6.262443438914027,
+        "ratio": 0.3914027149321267
+      },
+      {
+        "solution_found": true,
+        "solution_length": 19,
+        "nodes_expanded": 4012,
+        "optimal_cost": 19,
+        "execution_time": 0.08083701133728027,
+        "average_lower_bound": 6.350199401794616,
+        "ratio": 0.3342210211470851
+      },
+      {
+        "solution_found": true,
+        "solution_length": 12,
+        "nodes_expanded": 154,
+        "optimal_cost": 12,
+        "execution_time": 0.0005755424499511719,
+        "average_lower_bound": 5.64935064935065,
+        "ratio": 0.4707792207792208
+      },
+      {
+        "solution_found": true,
+        "solution_length": 9,
+        "nodes_expanded": 44,
+        "optimal_cost": 9,
+        "execution_time": 0.00013518333435058594,
+        "average_lower_bound": 5.204545454545454,
+        "ratio": 0.5782828282828283
+      },
+      {
+        "solution_found": true,
+        "solution_length": 5,
+        "nodes_expanded": 12,
+        "optimal_cost": 5,
+        "execution_time": 3.5762786865234375e-05,
+        "average_lower_bound": 3.1666666666666665,
+        "ratio": 0.6333333333333333
+      },
+      {
+        "solution_found": true,
+        "solution_length": 14,
+        "nodes_expanded": 303,
+        "optimal_cost": 14,
+        "execution_time": 0.0012586116790771484,
+        "average_lower_bound": 6.445544554455446,
+        "ratio": 0.4603960396039604
+      },
+      {
+        "solution_found": true,
+        "solution_length": 9,
+        "nodes_expanded": 51,
+        "optimal_cost": 9,
+        "execution_time": 0.0001614093780517578,
+        "average_lower_bound": 4.450980392156863,
+        "ratio": 0.4945533769063181
+      },
+      {
+        "solution_found": true,
+        "solution_length": 19,
+        "nodes_expanded": 3624,
+        "optimal_cost": 19,
+        "execution_time": 0.06781649589538574,
+        "average_lower_bound": 6.589128035320089,
+        "ratio": 0.3467962123852678
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 1239,
+        "optimal_cost": 16,
+        "execution_time": 0.010246992111206055,
+        "average_lower_bound": 6.1275221953188055,
+        "ratio": 0.38297013720742534
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 1520,
+        "optimal_cost": 17,
+        "execution_time": 0.015790462493896484,
+        "average_lower_bound": 6.3578947368421055,
+        "ratio": 0.37399380804953564
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 879,
+        "optimal_cost": 16,
+        "execution_time": 0.005968570709228516,
+        "average_lower_bound": 6.224118316268487,
+        "ratio": 0.3890073947667804
+      },
+      {
+        "solution_found": true,
+        "solution_length": 14,
+        "nodes_expanded": 542,
+        "optimal_cost": 14,
+        "execution_time": 0.002912282943725586,
+        "average_lower_bound": 5.535055350553505,
+        "ratio": 0.3953610964681075
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 1377,
+        "optimal_cost": 17,
+        "execution_time": 0.012221574783325195,
+        "average_lower_bound": 6.659404502541758,
+        "ratio": 0.3917296766201034
+      },
+      {
+        "solution_found": true,
+        "solution_length": 14,
+        "nodes_expanded": 401,
+        "optimal_cost": 14,
+        "execution_time": 0.0018830299377441406,
+        "average_lower_bound": 5.748129675810474,
+        "ratio": 0.41058069112931955
+      },
+      {
+        "solution_found": true,
+        "solution_length": 19,
+        "nodes_expanded": 3377,
+        "optimal_cost": 19,
+        "execution_time": 0.0587613582611084,
+        "average_lower_bound": 6.797157240153983,
+        "ratio": 0.35774511790284125
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 53,
+        "optimal_cost": 10,
+        "execution_time": 0.00018095970153808594,
+        "average_lower_bound": 5.60377358490566,
+        "ratio": 0.560377358490566
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 5414,
+        "optimal_cost": 20,
+        "execution_time": 0.1425321102142334,
+        "average_lower_bound": 6.430365718507573,
+        "ratio": 0.3215182859253786
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 1443,
+        "optimal_cost": 17,
+        "execution_time": 0.013385534286499023,
+        "average_lower_bound": 6.598059598059598,
+        "ratio": 0.3881211528270352
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 113,
+        "optimal_cost": 10,
+        "execution_time": 0.00038242340087890625,
+        "average_lower_bound": 4.584070796460177,
+        "ratio": 0.4584070796460177
+      },
+      {
+        "solution_found": true,
+        "solution_length": 22,
+        "nodes_expanded": 16478,
+        "optimal_cost": 22,
+        "execution_time": 1.2508385181427002,
+        "average_lower_bound": 6.4257191406724115,
+        "ratio": 0.2920781427578369
+      },
+      {
+        "solution_found": true,
+        "solution_length": 5,
+        "nodes_expanded": 12,
+        "optimal_cost": 5,
+        "execution_time": 6.890296936035156e-05,
+        "average_lower_bound": 3.1666666666666665,
+        "ratio": 0.6333333333333333
+      },
+      {
+        "solution_found": true,
+        "solution_length": 15,
+        "nodes_expanded": 693,
+        "optimal_cost": 15,
+        "execution_time": 0.004484891891479492,
+        "average_lower_bound": 5.987012987012987,
+        "ratio": 0.3991341991341991
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 6487,
+        "optimal_cost": 20,
+        "execution_time": 0.2226276397705078,
+        "average_lower_bound": 6.562817943579467,
+        "ratio": 0.3281408971789733
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 1748,
+        "optimal_cost": 17,
+        "execution_time": 0.02093195915222168,
+        "average_lower_bound": 6.061784897025172,
+        "ratio": 0.35657558217795127
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 2538,
+        "optimal_cost": 18,
+        "execution_time": 0.04030895233154297,
+        "average_lower_bound": 6.59338061465721,
+        "ratio": 0.3662989230365117
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 53,
+        "optimal_cost": 10,
+        "execution_time": 0.00021457672119140625,
+        "average_lower_bound": 5.113207547169812,
+        "ratio": 0.5113207547169811
+      },
+      {
+        "solution_found": true,
+        "solution_length": 14,
+        "nodes_expanded": 381,
+        "optimal_cost": 14,
+        "execution_time": 0.0020215511322021484,
+        "average_lower_bound": 5.929133858267717,
+        "ratio": 0.4235095613048369
+      },
+      {
+        "solution_found": true,
+        "solution_length": 12,
+        "nodes_expanded": 180,
+        "optimal_cost": 12,
+        "execution_time": 0.0007507801055908203,
+        "average_lower_bound": 5.333333333333333,
+        "ratio": 0.4444444444444444
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 1497,
+        "optimal_cost": 17,
+        "execution_time": 0.015761613845825195,
+        "average_lower_bound": 6.306613226452906,
+        "ratio": 0.3709772486148768
+      },
+      {
+        "solution_found": true,
+        "solution_length": 5,
+        "nodes_expanded": 12,
+        "optimal_cost": 5,
+        "execution_time": 5.221366882324219e-05,
+        "average_lower_bound": 3.5,
+        "ratio": 0.7
+      },
+      {
+        "solution_found": true,
+        "solution_length": 11,
+        "nodes_expanded": 95,
+        "optimal_cost": 11,
+        "execution_time": 0.0003571510314941406,
+        "average_lower_bound": 5.821052631578947,
+        "ratio": 0.5291866028708134
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 1177,
+        "optimal_cost": 16,
+        "execution_time": 0.010715961456298828,
+        "average_lower_bound": 6.093457943925234,
+        "ratio": 0.3808411214953271
+      },
+      {
+        "solution_found": true,
+        "solution_length": 6,
+        "nodes_expanded": 11,
+        "optimal_cost": 6,
+        "execution_time": 7.677078247070312e-05,
+        "average_lower_bound": 3.6363636363636362,
+        "ratio": 0.6060606060606061
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 4786,
+        "optimal_cost": 20,
+        "execution_time": 0.1239309310913086,
+        "average_lower_bound": 6.757835353113247,
+        "ratio": 0.33789176765566237
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 1515,
+        "optimal_cost": 17,
+        "execution_time": 0.01447749137878418,
+        "average_lower_bound": 6.315511551155115,
+        "ratio": 0.37150067947971266
+      },
+      {
+        "solution_found": true,
+        "solution_length": 5,
+        "nodes_expanded": 12,
+        "optimal_cost": 5,
+        "execution_time": 4.9591064453125e-05,
+        "average_lower_bound": 3.0833333333333335,
+        "ratio": 0.6166666666666667
+      },
+      {
+        "solution_found": true,
+        "solution_length": 2,
+        "nodes_expanded": 5,
+        "optimal_cost": 2,
+        "execution_time": 1.5497207641601562e-05,
+        "average_lower_bound": 1.6,
+        "ratio": 0.8
+      },
+      {
+        "solution_found": true,
+        "solution_length": 14,
+        "nodes_expanded": 334,
+        "optimal_cost": 14,
+        "execution_time": 0.0014374256134033203,
+        "average_lower_bound": 6.1467065868263475,
+        "ratio": 0.43905047048759627
+      },
+      {
+        "solution_found": true,
+        "solution_length": 22,
+        "nodes_expanded": 14460,
+        "optimal_cost": 22,
+        "execution_time": 1.0110936164855957,
+        "average_lower_bound": 6.808022130013831,
+        "ratio": 0.30945555136426506
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 78,
+        "optimal_cost": 10,
+        "execution_time": 0.0005578994750976562,
+        "average_lower_bound": 5.269230769230769,
+        "ratio": 0.5269230769230769
+      },
+      {
+        "solution_found": true,
+        "solution_length": 7,
+        "nodes_expanded": 24,
+        "optimal_cost": 7,
+        "execution_time": 0.00011420249938964844,
+        "average_lower_bound": 3.9166666666666665,
+        "ratio": 0.5595238095238095
+      },
+      {
+        "solution_found": true,
+        "solution_length": 11,
+        "nodes_expanded": 111,
+        "optimal_cost": 11,
+        "execution_time": 0.000446319580078125,
+        "average_lower_bound": 5.486486486486487,
+        "ratio": 0.4987714987714988
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 2364,
+        "optimal_cost": 18,
+        "execution_time": 0.031162261962890625,
+        "average_lower_bound": 6.129864636209814,
+        "ratio": 0.3405480353449897
+      },
+      {
+        "solution_found": true,
+        "solution_length": 11,
+        "nodes_expanded": 116,
+        "optimal_cost": 11,
+        "execution_time": 0.0004107952117919922,
+        "average_lower_bound": 5.275862068965517,
+        "ratio": 0.4796238244514106
+      },
+      {
+        "solution_found": true,
+        "solution_length": 8,
+        "nodes_expanded": 31,
+        "optimal_cost": 8,
+        "execution_time": 9.965896606445312e-05,
+        "average_lower_bound": 4.419354838709677,
+        "ratio": 0.5524193548387096
+      },
+      {
+        "solution_found": true,
+        "solution_length": 13,
+        "nodes_expanded": 297,
+        "optimal_cost": 13,
+        "execution_time": 0.0016989707946777344,
+        "average_lower_bound": 5.622895622895623,
+        "ratio": 0.43253043253043255
+      },
+      {
+        "solution_found": true,
+        "solution_length": 24,
+        "nodes_expanded": 32352,
+        "optimal_cost": 24,
+        "execution_time": 4.747738361358643,
+        "average_lower_bound": 6.802392433234421,
+        "ratio": 0.2834330180514342
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 4963,
+        "optimal_cost": 20,
+        "execution_time": 0.13366270065307617,
+        "average_lower_bound": 6.668547249647391,
+        "ratio": 0.33342736248236954
+      },
+      {
+        "solution_found": true,
+        "solution_length": 8,
+        "nodes_expanded": 28,
+        "optimal_cost": 8,
+        "execution_time": 0.000125885009765625,
+        "average_lower_bound": 4.5,
+        "ratio": 0.5625
+      },
+      {
+        "solution_found": true,
+        "solution_length": 8,
+        "nodes_expanded": 28,
+        "optimal_cost": 8,
+        "execution_time": 9.417533874511719e-05,
+        "average_lower_bound": 4.5,
+        "ratio": 0.5625
+      },
+      {
+        "solution_found": true,
+        "solution_length": 9,
+        "nodes_expanded": 49,
+        "optimal_cost": 9,
+        "execution_time": 0.00016617774963378906,
+        "average_lower_bound": 4.938775510204081,
+        "ratio": 0.5487528344671202
+      },
+      {
+        "solution_found": true,
+        "solution_length": 23,
+        "nodes_expanded": 22099,
+        "optimal_cost": 23,
+        "execution_time": 2.265071392059326,
+        "average_lower_bound": 6.42219104936875,
+        "ratio": 0.2792256977986413
+      },
+      {
+        "solution_found": true,
+        "solution_length": 21,
+        "nodes_expanded": 9247,
+        "optimal_cost": 21,
+        "execution_time": 0.46336793899536133,
+        "average_lower_bound": 6.521033848815832,
+        "ratio": 0.3105254213721825
+      },
+      {
+        "solution_found": true,
+        "solution_length": 7,
+        "nodes_expanded": 28,
+        "optimal_cost": 7,
+        "execution_time": 0.0001289844512939453,
+        "average_lower_bound": 4.142857142857143,
+        "ratio": 0.5918367346938777
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 2495,
+        "optimal_cost": 18,
+        "execution_time": 0.04058098793029785,
+        "average_lower_bound": 5.997194388777555,
+        "ratio": 0.33317746604319753
+      },
+      {
+        "solution_found": true,
+        "solution_length": 15,
+        "nodes_expanded": 603,
+        "optimal_cost": 15,
+        "execution_time": 0.003927469253540039,
+        "average_lower_bound": 6.266998341625207,
+        "ratio": 0.4177998894416805
+      },
+      {
+        "solution_found": true,
+        "solution_length": 13,
+        "nodes_expanded": 273,
+        "optimal_cost": 13,
+        "execution_time": 0.001271963119506836,
+        "average_lower_bound": 5.7655677655677655,
+        "ratio": 0.443505212735982
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 940,
+        "optimal_cost": 16,
+        "execution_time": 0.0076181888580322266,
+        "average_lower_bound": 5.956382978723404,
+        "ratio": 0.37227393617021276
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 5194,
+        "optimal_cost": 20,
+        "execution_time": 0.15409517288208008,
+        "average_lower_bound": 6.541393916056989,
+        "ratio": 0.32706969580284945
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 832,
+        "optimal_cost": 16,
+        "execution_time": 0.0065882205963134766,
+        "average_lower_bound": 6.334134615384615,
+        "ratio": 0.39588341346153844
+      },
+      {
+        "solution_found": true,
+        "solution_length": 22,
+        "nodes_expanded": 13036,
+        "optimal_cost": 22,
+        "execution_time": 0.8871250152587891,
+        "average_lower_bound": 6.499232893525622,
+        "ratio": 0.29541967697843735
+      },
+      {
+        "solution_found": true,
+        "solution_length": 24,
+        "nodes_expanded": 27369,
+        "optimal_cost": 24,
+        "execution_time": 3.316185712814331,
+        "average_lower_bound": 6.738207460996017,
+        "ratio": 0.2807586442081674
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 5688,
+        "optimal_cost": 20,
+        "execution_time": 0.17819428443908691,
+        "average_lower_bound": 6.355309423347398,
+        "ratio": 0.3177654711673699
+      },
+      {
+        "solution_found": true,
+        "solution_length": 9,
+        "nodes_expanded": 66,
+        "optimal_cost": 9,
+        "execution_time": 0.00027108192443847656,
+        "average_lower_bound": 4.454545454545454,
+        "ratio": 0.4949494949494949
+      },
+      {
+        "solution_found": true,
+        "solution_length": 19,
+        "nodes_expanded": 3995,
+        "optimal_cost": 19,
+        "execution_time": 0.0916128158569336,
+        "average_lower_bound": 6.355444305381727,
+        "ratio": 0.33449706870430146
+      },
+      {
+        "solution_found": true,
+        "solution_length": 22,
+        "nodes_expanded": 12540,
+        "optimal_cost": 22,
+        "execution_time": 0.7697479724884033,
+        "average_lower_bound": 6.629744816586922,
+        "ratio": 0.30135203711758735
+      },
+      {
+        "solution_found": true,
+        "solution_length": 21,
+        "nodes_expanded": 9253,
+        "optimal_cost": 21,
+        "execution_time": 0.42609214782714844,
+        "average_lower_bound": 6.489138657732627,
+        "ratio": 0.30900660274917274
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 53,
+        "optimal_cost": 10,
+        "execution_time": 0.00021386146545410156,
+        "average_lower_bound": 5.962264150943396,
+        "ratio": 0.5962264150943396
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 1538,
+        "optimal_cost": 17,
+        "execution_time": 0.016033649444580078,
+        "average_lower_bound": 6.343953185955787,
+        "ratio": 0.37317371682092865
+      },
+      {
+        "solution_found": true,
+        "solution_length": 5,
+        "nodes_expanded": 12,
+        "optimal_cost": 5,
+        "execution_time": 6.008148193359375e-05,
+        "average_lower_bound": 3.0833333333333335,
+        "ratio": 0.6166666666666667
+      },
+      {
+        "solution_found": true,
+        "solution_length": 19,
+        "nodes_expanded": 3788,
+        "optimal_cost": 19,
+        "execution_time": 0.08227133750915527,
+        "average_lower_bound": 6.458553326293559,
+        "ratio": 0.33992385927860835
+      },
+      {
+        "solution_found": true,
+        "solution_length": 12,
+        "nodes_expanded": 131,
+        "optimal_cost": 12,
+        "execution_time": 0.0005524158477783203,
+        "average_lower_bound": 5.961832061068702,
+        "ratio": 0.49681933842239184
+      },
+      {
+        "solution_found": true,
+        "solution_length": 13,
+        "nodes_expanded": 282,
+        "optimal_cost": 13,
+        "execution_time": 0.0012593269348144531,
+        "average_lower_bound": 5.709219858156028,
+        "ratio": 0.4391707583196945
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 2804,
+        "optimal_cost": 18,
+        "execution_time": 0.04792070388793945,
+        "average_lower_bound": 6.318830242510699,
+        "ratio": 0.3510461245839277
+      },
+      {
+        "solution_found": true,
+        "solution_length": 14,
+        "nodes_expanded": 408,
+        "optimal_cost": 14,
+        "execution_time": 0.002199888229370117,
+        "average_lower_bound": 5.5661764705882355,
+        "ratio": 0.3975840336134454
+      },
+      {
+        "solution_found": true,
+        "solution_length": 19,
+        "nodes_expanded": 3486,
+        "optimal_cost": 19,
+        "execution_time": 0.06863021850585938,
+        "average_lower_bound": 6.652323580034423,
+        "ratio": 0.35012229368602227
+      },
+      {
+        "solution_found": true,
+        "solution_length": 21,
+        "nodes_expanded": 9138,
+        "optimal_cost": 21,
+        "execution_time": 0.4306471347808838,
+        "average_lower_bound": 6.593565331582403,
+        "ratio": 0.31397930150392395
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 890,
+        "optimal_cost": 16,
+        "execution_time": 0.005915641784667969,
+        "average_lower_bound": 6.187640449438202,
+        "ratio": 0.38672752808988764
+      },
+      {
+        "solution_found": true,
+        "solution_length": 15,
+        "nodes_expanded": 662,
+        "optimal_cost": 15,
+        "execution_time": 0.0037889480590820312,
+        "average_lower_bound": 5.873111782477341,
+        "ratio": 0.3915407854984894
+      }
+    ]
+  },
+  "H3: Manhattan Distance": {
+    "successful_count": 100,
+    "total_count": 100,
+    "statistics": [
+      {
+        "solution_found": true,
+        "solution_length": 12,
+        "nodes_expanded": 41,
+        "optimal_cost": 12,
+        "execution_time": 0.0001671314239501953,
+        "average_lower_bound": 6.024390243902439,
+        "ratio": 0.5020325203252033
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 370,
+        "optimal_cost": 20,
+        "execution_time": 0.0019829273223876953,
+        "average_lower_bound": 10.57027027027027,
+        "ratio": 0.5285135135135135
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 32,
+        "optimal_cost": 10,
+        "execution_time": 0.00012159347534179688,
+        "average_lower_bound": 6.28125,
+        "ratio": 0.628125
+      },
+      {
+        "solution_found": true,
+        "solution_length": 9,
+        "nodes_expanded": 25,
+        "optimal_cost": 9,
+        "execution_time": 9.012222290039062e-05,
+        "average_lower_bound": 5.36,
+        "ratio": 0.5955555555555556
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 227,
+        "optimal_cost": 17,
+        "execution_time": 0.0010068416595458984,
+        "average_lower_bound": 9.590308370044053,
+        "ratio": 0.5641357864731795
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 159,
+        "optimal_cost": 17,
+        "execution_time": 0.0006616115570068359,
+        "average_lower_bound": 9.566037735849056,
+        "ratio": 0.562708102108768
+      },
+      {
+        "solution_found": true,
+        "solution_length": 22,
+        "nodes_expanded": 2272,
+        "optimal_cost": 22,
+        "execution_time": 0.03041815757751465,
+        "average_lower_bound": 10.105633802816902,
+        "ratio": 0.4593469910371319
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 196,
+        "optimal_cost": 17,
+        "execution_time": 0.0008935928344726562,
+        "average_lower_bound": 8.698979591836734,
+        "ratio": 0.5117046818727491
+      },
+      {
+        "solution_found": true,
+        "solution_length": 8,
+        "nodes_expanded": 24,
+        "optimal_cost": 8,
+        "execution_time": 9.465217590332031e-05,
+        "average_lower_bound": 5.208333333333333,
+        "ratio": 0.6510416666666666
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 618,
+        "optimal_cost": 18,
+        "execution_time": 0.0038957595825195312,
+        "average_lower_bound": 8.33495145631068,
+        "ratio": 0.46305285868392665
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 454,
+        "optimal_cost": 18,
+        "execution_time": 0.0025217533111572266,
+        "average_lower_bound": 9.365638766519824,
+        "ratio": 0.5203132648066568
+      },
+      {
+        "solution_found": true,
+        "solution_length": 11,
+        "nodes_expanded": 27,
+        "optimal_cost": 11,
+        "execution_time": 0.00010442733764648438,
+        "average_lower_bound": 6.296296296296297,
+        "ratio": 0.5723905723905724
+      },
+      {
+        "solution_found": true,
+        "solution_length": 27,
+        "nodes_expanded": 6847,
+        "optimal_cost": 27,
+        "execution_time": 0.22209477424621582,
+        "average_lower_bound": 12.020008762961881,
+        "ratio": 0.4451855097393289
+      },
+      {
+        "solution_found": true,
+        "solution_length": 12,
+        "nodes_expanded": 30,
+        "optimal_cost": 12,
+        "execution_time": 0.0001430511474609375,
+        "average_lower_bound": 6.433333333333334,
+        "ratio": 0.5361111111111111
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 211,
+        "optimal_cost": 16,
+        "execution_time": 0.0009903907775878906,
+        "average_lower_bound": 8.327014218009479,
+        "ratio": 0.5204383886255924
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 25,
+        "optimal_cost": 10,
+        "execution_time": 9.608268737792969e-05,
+        "average_lower_bound": 5.68,
+        "ratio": 0.568
+      },
+      {
+        "solution_found": true,
+        "solution_length": 15,
+        "nodes_expanded": 134,
+        "optimal_cost": 15,
+        "execution_time": 0.0005564689636230469,
+        "average_lower_bound": 8.350746268656716,
+        "ratio": 0.5567164179104477
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 495,
+        "optimal_cost": 20,
+        "execution_time": 0.002911806106567383,
+        "average_lower_bound": 10.444444444444445,
+        "ratio": 0.5222222222222223
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 197,
+        "optimal_cost": 16,
+        "execution_time": 0.0008728504180908203,
+        "average_lower_bound": 8.67005076142132,
+        "ratio": 0.5418781725888325
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 187,
+        "optimal_cost": 18,
+        "execution_time": 0.0008456707000732422,
+        "average_lower_bound": 10.363636363636363,
+        "ratio": 0.5757575757575757
+      },
+      {
+        "solution_found": true,
+        "solution_length": 23,
+        "nodes_expanded": 3345,
+        "optimal_cost": 23,
+        "execution_time": 0.06098127365112305,
+        "average_lower_bound": 9.900149476831091,
+        "ratio": 0.43044128160135176
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 155,
+        "optimal_cost": 16,
+        "execution_time": 0.0007226467132568359,
+        "average_lower_bound": 8.761290322580646,
+        "ratio": 0.5475806451612903
+      },
+      {
+        "solution_found": true,
+        "solution_length": 19,
+        "nodes_expanded": 749,
+        "optimal_cost": 19,
+        "execution_time": 0.005212068557739258,
+        "average_lower_bound": 9.248331108144193,
+        "ratio": 0.48675426884969436
+      },
+      {
+        "solution_found": true,
+        "solution_length": 12,
+        "nodes_expanded": 51,
+        "optimal_cost": 12,
+        "execution_time": 0.00021147727966308594,
+        "average_lower_bound": 7.0588235294117645,
+        "ratio": 0.5882352941176471
+      },
+      {
+        "solution_found": true,
+        "solution_length": 9,
+        "nodes_expanded": 22,
+        "optimal_cost": 9,
+        "execution_time": 8.392333984375e-05,
+        "average_lower_bound": 5.409090909090909,
+        "ratio": 0.601010101010101
+      },
+      {
+        "solution_found": true,
+        "solution_length": 5,
+        "nodes_expanded": 12,
+        "optimal_cost": 5,
+        "execution_time": 5.221366882324219e-05,
+        "average_lower_bound": 3.25,
+        "ratio": 0.65
+      },
+      {
+        "solution_found": true,
+        "solution_length": 14,
+        "nodes_expanded": 38,
+        "optimal_cost": 14,
+        "execution_time": 0.00014209747314453125,
+        "average_lower_bound": 7.342105263157895,
+        "ratio": 0.5244360902255639
+      },
+      {
+        "solution_found": true,
+        "solution_length": 9,
+        "nodes_expanded": 29,
+        "optimal_cost": 9,
+        "execution_time": 0.00011205673217773438,
+        "average_lower_bound": 4.517241379310345,
+        "ratio": 0.5019157088122606
+      },
+      {
+        "solution_found": true,
+        "solution_length": 19,
+        "nodes_expanded": 439,
+        "optimal_cost": 19,
+        "execution_time": 0.0024416446685791016,
+        "average_lower_bound": 10.047835990888382,
+        "ratio": 0.5288334732046517
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 287,
+        "optimal_cost": 16,
+        "execution_time": 0.0014019012451171875,
+        "average_lower_bound": 8.236933797909408,
+        "ratio": 0.514808362369338
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 199,
+        "optimal_cost": 17,
+        "execution_time": 0.0008840560913085938,
+        "average_lower_bound": 9.321608040201005,
+        "ratio": 0.5483298847177062
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 145,
+        "optimal_cost": 16,
+        "execution_time": 0.0006201267242431641,
+        "average_lower_bound": 8.96551724137931,
+        "ratio": 0.5603448275862069
+      },
+      {
+        "solution_found": true,
+        "solution_length": 14,
+        "nodes_expanded": 205,
+        "optimal_cost": 14,
+        "execution_time": 0.0009188652038574219,
+        "average_lower_bound": 7.390243902439025,
+        "ratio": 0.5278745644599303
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 111,
+        "optimal_cost": 17,
+        "execution_time": 0.000446319580078125,
+        "average_lower_bound": 9.711711711711711,
+        "ratio": 0.5712771595124536
+      },
+      {
+        "solution_found": true,
+        "solution_length": 14,
+        "nodes_expanded": 133,
+        "optimal_cost": 14,
+        "execution_time": 0.0005617141723632812,
+        "average_lower_bound": 7.879699248120301,
+        "ratio": 0.5628356605800214
+      },
+      {
+        "solution_found": true,
+        "solution_length": 19,
+        "nodes_expanded": 321,
+        "optimal_cost": 19,
+        "execution_time": 0.0016624927520751953,
+        "average_lower_bound": 10.797507788161994,
+        "ratio": 0.5682898835874733
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 27,
+        "optimal_cost": 10,
+        "execution_time": 0.00010585784912109375,
+        "average_lower_bound": 5.777777777777778,
+        "ratio": 0.5777777777777777
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 818,
+        "optimal_cost": 20,
+        "execution_time": 0.005877017974853516,
+        "average_lower_bound": 9.853300733496333,
+        "ratio": 0.49266503667481665
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 130,
+        "optimal_cost": 17,
+        "execution_time": 0.0005648136138916016,
+        "average_lower_bound": 9.8,
+        "ratio": 0.5764705882352942
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 58,
+        "optimal_cost": 10,
+        "execution_time": 0.00023126602172851562,
+        "average_lower_bound": 5.603448275862069,
+        "ratio": 0.560344827586207
+      },
+      {
+        "solution_found": true,
+        "solution_length": 22,
+        "nodes_expanded": 3088,
+        "optimal_cost": 22,
+        "execution_time": 0.05227780342102051,
+        "average_lower_bound": 9.534974093264248,
+        "ratio": 0.4334079133301931
+      },
+      {
+        "solution_found": true,
+        "solution_length": 5,
+        "nodes_expanded": 12,
+        "optimal_cost": 5,
+        "execution_time": 6.246566772460938e-05,
+        "average_lower_bound": 3.25,
+        "ratio": 0.65
+      },
+      {
+        "solution_found": true,
+        "solution_length": 15,
+        "nodes_expanded": 139,
+        "optimal_cost": 15,
+        "execution_time": 0.0006086826324462891,
+        "average_lower_bound": 8.431654676258994,
+        "ratio": 0.5621103117505996
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 933,
+        "optimal_cost": 20,
+        "execution_time": 0.0072019100189208984,
+        "average_lower_bound": 9.45016077170418,
+        "ratio": 0.472508038585209
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 373,
+        "optimal_cost": 17,
+        "execution_time": 0.0019791126251220703,
+        "average_lower_bound": 8.621983914209116,
+        "ratio": 0.507175524365242
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 426,
+        "optimal_cost": 18,
+        "execution_time": 0.0023653507232666016,
+        "average_lower_bound": 9.166666666666666,
+        "ratio": 0.5092592592592592
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 30,
+        "optimal_cost": 10,
+        "execution_time": 0.00011610984802246094,
+        "average_lower_bound": 5.066666666666666,
+        "ratio": 0.5066666666666666
+      },
+      {
+        "solution_found": true,
+        "solution_length": 14,
+        "nodes_expanded": 81,
+        "optimal_cost": 14,
+        "execution_time": 0.00032973289489746094,
+        "average_lower_bound": 8.012345679012345,
+        "ratio": 0.5723104056437389
+      },
+      {
+        "solution_found": true,
+        "solution_length": 12,
+        "nodes_expanded": 63,
+        "optimal_cost": 12,
+        "execution_time": 0.00026035308837890625,
+        "average_lower_bound": 7.238095238095238,
+        "ratio": 0.6031746031746031
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 330,
+        "optimal_cost": 17,
+        "execution_time": 0.001958131790161133,
+        "average_lower_bound": 8.318181818181818,
+        "ratio": 0.4893048128342246
+      },
+      {
+        "solution_found": true,
+        "solution_length": 5,
+        "nodes_expanded": 12,
+        "optimal_cost": 5,
+        "execution_time": 4.8160552978515625e-05,
+        "average_lower_bound": 3.5833333333333335,
+        "ratio": 0.7166666666666667
+      },
+      {
+        "solution_found": true,
+        "solution_length": 11,
+        "nodes_expanded": 31,
+        "optimal_cost": 11,
+        "execution_time": 0.00011706352233886719,
+        "average_lower_bound": 6.967741935483871,
+        "ratio": 0.6334310850439883
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 279,
+        "optimal_cost": 16,
+        "execution_time": 0.0013439655303955078,
+        "average_lower_bound": 8.189964157706093,
+        "ratio": 0.5118727598566308
+      },
+      {
+        "solution_found": true,
+        "solution_length": 6,
+        "nodes_expanded": 11,
+        "optimal_cost": 6,
+        "execution_time": 4.649162292480469e-05,
+        "average_lower_bound": 3.6363636363636362,
+        "ratio": 0.6060606060606061
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 535,
+        "optimal_cost": 20,
+        "execution_time": 0.0032596588134765625,
+        "average_lower_bound": 10.250467289719627,
+        "ratio": 0.5125233644859813
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 295,
+        "optimal_cost": 17,
+        "execution_time": 0.0014472007751464844,
+        "average_lower_bound": 9.135593220338983,
+        "ratio": 0.5373878364905283
+      },
+      {
+        "solution_found": true,
+        "solution_length": 5,
+        "nodes_expanded": 12,
+        "optimal_cost": 5,
+        "execution_time": 4.76837158203125e-05,
+        "average_lower_bound": 3.25,
+        "ratio": 0.65
+      },
+      {
+        "solution_found": true,
+        "solution_length": 2,
+        "nodes_expanded": 5,
+        "optimal_cost": 2,
+        "execution_time": 1.8835067749023438e-05,
+        "average_lower_bound": 1.6,
+        "ratio": 0.8
+      },
+      {
+        "solution_found": true,
+        "solution_length": 14,
+        "nodes_expanded": 70,
+        "optimal_cost": 14,
+        "execution_time": 0.0002765655517578125,
+        "average_lower_bound": 6.942857142857143,
+        "ratio": 0.4959183673469388
+      },
+      {
+        "solution_found": true,
+        "solution_length": 22,
+        "nodes_expanded": 1442,
+        "optimal_cost": 22,
+        "execution_time": 0.01463937759399414,
+        "average_lower_bound": 10.850901525658808,
+        "ratio": 0.4932227966208549
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 30,
+        "optimal_cost": 10,
+        "execution_time": 0.00012683868408203125,
+        "average_lower_bound": 6.1,
+        "ratio": 0.61
+      },
+      {
+        "solution_found": true,
+        "solution_length": 7,
+        "nodes_expanded": 20,
+        "optimal_cost": 7,
+        "execution_time": 7.748603820800781e-05,
+        "average_lower_bound": 4.45,
+        "ratio": 0.6357142857142858
+      },
+      {
+        "solution_found": true,
+        "solution_length": 11,
+        "nodes_expanded": 34,
+        "optimal_cost": 11,
+        "execution_time": 0.00012636184692382812,
+        "average_lower_bound": 6.617647058823529,
+        "ratio": 0.6016042780748663
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 589,
+        "optimal_cost": 18,
+        "execution_time": 0.003661632537841797,
+        "average_lower_bound": 8.611205432937181,
+        "ratio": 0.4784003018298434
+      },
+      {
+        "solution_found": true,
+        "solution_length": 11,
+        "nodes_expanded": 58,
+        "optimal_cost": 11,
+        "execution_time": 0.0002346038818359375,
+        "average_lower_bound": 6.275862068965517,
+        "ratio": 0.5705329153605015
+      },
+      {
+        "solution_found": true,
+        "solution_length": 8,
+        "nodes_expanded": 19,
+        "optimal_cost": 8,
+        "execution_time": 7.05718994140625e-05,
+        "average_lower_bound": 4.631578947368421,
+        "ratio": 0.5789473684210527
+      },
+      {
+        "solution_found": true,
+        "solution_length": 13,
+        "nodes_expanded": 127,
+        "optimal_cost": 13,
+        "execution_time": 0.0005271434783935547,
+        "average_lower_bound": 7.354330708661418,
+        "ratio": 0.565717746820109
+      },
+      {
+        "solution_found": true,
+        "solution_length": 24,
+        "nodes_expanded": 3853,
+        "optimal_cost": 24,
+        "execution_time": 0.07741069793701172,
+        "average_lower_bound": 10.886581884246041,
+        "ratio": 0.45360757851025174
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 703,
+        "optimal_cost": 20,
+        "execution_time": 0.00467991828918457,
+        "average_lower_bound": 9.588904694167852,
+        "ratio": 0.47944523470839256
+      },
+      {
+        "solution_found": true,
+        "solution_length": 8,
+        "nodes_expanded": 21,
+        "optimal_cost": 8,
+        "execution_time": 9.489059448242188e-05,
+        "average_lower_bound": 4.666666666666667,
+        "ratio": 0.5833333333333334
+      },
+      {
+        "solution_found": true,
+        "solution_length": 8,
+        "nodes_expanded": 21,
+        "optimal_cost": 8,
+        "execution_time": 7.987022399902344e-05,
+        "average_lower_bound": 4.666666666666667,
+        "ratio": 0.5833333333333334
+      },
+      {
+        "solution_found": true,
+        "solution_length": 9,
+        "nodes_expanded": 32,
+        "optimal_cost": 9,
+        "execution_time": 0.00012183189392089844,
+        "average_lower_bound": 5.53125,
+        "ratio": 0.6145833333333334
+      },
+      {
+        "solution_found": true,
+        "solution_length": 23,
+        "nodes_expanded": 4946,
+        "optimal_cost": 23,
+        "execution_time": 0.12140536308288574,
+        "average_lower_bound": 9.463000404367165,
+        "ratio": 0.4114348001898767
+      },
+      {
+        "solution_found": true,
+        "solution_length": 21,
+        "nodes_expanded": 1246,
+        "optimal_cost": 21,
+        "execution_time": 0.0111236572265625,
+        "average_lower_bound": 9.846709470304976,
+        "ratio": 0.4688909271573798
+      },
+      {
+        "solution_found": true,
+        "solution_length": 7,
+        "nodes_expanded": 15,
+        "optimal_cost": 7,
+        "execution_time": 6.4849853515625e-05,
+        "average_lower_bound": 4.4,
+        "ratio": 0.6285714285714287
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 648,
+        "optimal_cost": 18,
+        "execution_time": 0.004073381423950195,
+        "average_lower_bound": 8.399691358024691,
+        "ratio": 0.46664951989026066
+      },
+      {
+        "solution_found": true,
+        "solution_length": 15,
+        "nodes_expanded": 109,
+        "optimal_cost": 15,
+        "execution_time": 0.00044727325439453125,
+        "average_lower_bound": 8.889908256880734,
+        "ratio": 0.5926605504587156
+      },
+      {
+        "solution_found": true,
+        "solution_length": 13,
+        "nodes_expanded": 60,
+        "optimal_cost": 13,
+        "execution_time": 0.00022792816162109375,
+        "average_lower_bound": 7.95,
+        "ratio": 0.6115384615384616
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 221,
+        "optimal_cost": 16,
+        "execution_time": 0.0009839534759521484,
+        "average_lower_bound": 8.307692307692308,
+        "ratio": 0.5192307692307693
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 845,
+        "optimal_cost": 20,
+        "execution_time": 0.006110191345214844,
+        "average_lower_bound": 9.629585798816567,
+        "ratio": 0.48147928994082834
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 120,
+        "optimal_cost": 16,
+        "execution_time": 0.0005106925964355469,
+        "average_lower_bound": 8.9,
+        "ratio": 0.55625
+      },
+      {
+        "solution_found": true,
+        "solution_length": 22,
+        "nodes_expanded": 1722,
+        "optimal_cost": 22,
+        "execution_time": 0.01878046989440918,
+        "average_lower_bound": 10.455284552845528,
+        "ratio": 0.475240206947524
+      },
+      {
+        "solution_found": true,
+        "solution_length": 24,
+        "nodes_expanded": 3972,
+        "optimal_cost": 24,
+        "execution_time": 0.08235406875610352,
+        "average_lower_bound": 10.267623363544814,
+        "ratio": 0.4278176401477006
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 1052,
+        "optimal_cost": 20,
+        "execution_time": 0.008569717407226562,
+        "average_lower_bound": 9.252851711026617,
+        "ratio": 0.46264258555133086
+      },
+      {
+        "solution_found": true,
+        "solution_length": 9,
+        "nodes_expanded": 33,
+        "optimal_cost": 9,
+        "execution_time": 0.0001392364501953125,
+        "average_lower_bound": 5.515151515151516,
+        "ratio": 0.6127946127946129
+      },
+      {
+        "solution_found": true,
+        "solution_length": 19,
+        "nodes_expanded": 748,
+        "optimal_cost": 19,
+        "execution_time": 0.005069732666015625,
+        "average_lower_bound": 9.556149732620321,
+        "ratio": 0.5029552490852801
+      },
+      {
+        "solution_found": true,
+        "solution_length": 24,
+        "nodes_expanded": 3815,
+        "optimal_cost": 24,
+        "execution_time": 0.07674479484558105,
+        "average_lower_bound": 10.2956749672346,
+        "ratio": 0.42898645696810833
+      },
+      {
+        "solution_found": true,
+        "solution_length": 21,
+        "nodes_expanded": 1291,
+        "optimal_cost": 21,
+        "execution_time": 0.011916875839233398,
+        "average_lower_bound": 9.983733539891556,
+        "ratio": 0.4754158828519789
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 25,
+        "optimal_cost": 10,
+        "execution_time": 0.00010848045349121094,
+        "average_lower_bound": 6.16,
+        "ratio": 0.616
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 277,
+        "optimal_cost": 17,
+        "execution_time": 0.0013310909271240234,
+        "average_lower_bound": 9.353790613718411,
+        "ratio": 0.5502229772775536
+      },
+      {
+        "solution_found": true,
+        "solution_length": 5,
+        "nodes_expanded": 12,
+        "optimal_cost": 5,
+        "execution_time": 4.863739013671875e-05,
+        "average_lower_bound": 3.25,
+        "ratio": 0.65
+      },
+      {
+        "solution_found": true,
+        "solution_length": 19,
+        "nodes_expanded": 457,
+        "optimal_cost": 19,
+        "execution_time": 0.002685546875,
+        "average_lower_bound": 10.304157549234136,
+        "ratio": 0.5423240815386388
+      },
+      {
+        "solution_found": true,
+        "solution_length": 12,
+        "nodes_expanded": 27,
+        "optimal_cost": 12,
+        "execution_time": 0.0001087188720703125,
+        "average_lower_bound": 6.518518518518518,
+        "ratio": 0.5432098765432098
+      },
+      {
+        "solution_found": true,
+        "solution_length": 13,
+        "nodes_expanded": 87,
+        "optimal_cost": 13,
+        "execution_time": 0.00038623809814453125,
+        "average_lower_bound": 7.747126436781609,
+        "ratio": 0.5959328028293546
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 524,
+        "optimal_cost": 18,
+        "execution_time": 0.003174304962158203,
+        "average_lower_bound": 8.956106870229007,
+        "ratio": 0.4975614927905004
+      },
+      {
+        "solution_found": true,
+        "solution_length": 14,
+        "nodes_expanded": 148,
+        "optimal_cost": 14,
+        "execution_time": 0.0006265640258789062,
+        "average_lower_bound": 7.27027027027027,
+        "ratio": 0.5193050193050193
+      },
+      {
+        "solution_found": true,
+        "solution_length": 19,
+        "nodes_expanded": 440,
+        "optimal_cost": 19,
+        "execution_time": 0.0024836063385009766,
+        "average_lower_bound": 10.047727272727272,
+        "ratio": 0.5288277511961722
+      },
+      {
+        "solution_found": true,
+        "solution_length": 21,
+        "nodes_expanded": 1059,
+        "optimal_cost": 21,
+        "execution_time": 0.00870060920715332,
+        "average_lower_bound": 10.199244570349386,
+        "ratio": 0.48567831287378027
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 122,
+        "optimal_cost": 16,
+        "execution_time": 0.0005245208740234375,
+        "average_lower_bound": 8.819672131147541,
+        "ratio": 0.5512295081967213
+      },
+      {
+        "solution_found": true,
+        "solution_length": 15,
+        "nodes_expanded": 181,
+        "optimal_cost": 15,
+        "execution_time": 0.0007910728454589844,
+        "average_lower_bound": 7.613259668508287,
+        "ratio": 0.5075506445672191
+      }
+    ]
+  },
+  "H4: Linear Conflict": {
+    "successful_count": 100,
+    "total_count": 100,
+    "statistics": [
+      {
+        "solution_found": true,
+        "solution_length": 12,
+        "nodes_expanded": 41,
+        "optimal_cost": 12,
+        "execution_time": 0.00040531158447265625,
+        "average_lower_bound": 6.024390243902439,
+        "ratio": 0.5020325203252033
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 210,
+        "optimal_cost": 20,
+        "execution_time": 0.0021491050720214844,
+        "average_lower_bound": 11.252380952380953,
+        "ratio": 0.5626190476190477
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 32,
+        "optimal_cost": 10,
+        "execution_time": 0.00030541419982910156,
+        "average_lower_bound": 6.28125,
+        "ratio": 0.628125
+      },
+      {
+        "solution_found": true,
+        "solution_length": 9,
+        "nodes_expanded": 22,
+        "optimal_cost": 9,
+        "execution_time": 0.0002105236053466797,
+        "average_lower_bound": 5.2272727272727275,
+        "ratio": 0.5808080808080809
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 175,
+        "optimal_cost": 17,
+        "execution_time": 0.0017507076263427734,
+        "average_lower_bound": 10.045714285714286,
+        "ratio": 0.5909243697478992
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 95,
+        "optimal_cost": 17,
+        "execution_time": 0.0009353160858154297,
+        "average_lower_bound": 9.842105263157896,
+        "ratio": 0.5789473684210527
+      },
+      {
+        "solution_found": true,
+        "solution_length": 22,
+        "nodes_expanded": 1262,
+        "optimal_cost": 22,
+        "execution_time": 0.018552064895629883,
+        "average_lower_bound": 10.969889064976229,
+        "ratio": 0.49863132113528313
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 170,
+        "optimal_cost": 17,
+        "execution_time": 0.0017061233520507812,
+        "average_lower_bound": 9.076470588235294,
+        "ratio": 0.5339100346020761
+      },
+      {
+        "solution_found": true,
+        "solution_length": 8,
+        "nodes_expanded": 24,
+        "optimal_cost": 8,
+        "execution_time": 0.00022459030151367188,
+        "average_lower_bound": 5.208333333333333,
+        "ratio": 0.6510416666666666
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 361,
+        "optimal_cost": 18,
+        "execution_time": 0.0038619041442871094,
+        "average_lower_bound": 9.260387811634349,
+        "ratio": 0.5144659895352416
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 183,
+        "optimal_cost": 18,
+        "execution_time": 0.0018422603607177734,
+        "average_lower_bound": 10.420765027322405,
+        "ratio": 0.5789313904068003
+      },
+      {
+        "solution_found": true,
+        "solution_length": 11,
+        "nodes_expanded": 27,
+        "optimal_cost": 11,
+        "execution_time": 0.00024962425231933594,
+        "average_lower_bound": 6.296296296296297,
+        "ratio": 0.5723905723905724
+      },
+      {
+        "solution_found": true,
+        "solution_length": 27,
+        "nodes_expanded": 3519,
+        "optimal_cost": 27,
+        "execution_time": 0.09370207786560059,
+        "average_lower_bound": 13.605001420858198,
+        "ratio": 0.5038889415132666
+      },
+      {
+        "solution_found": true,
+        "solution_length": 12,
+        "nodes_expanded": 30,
+        "optimal_cost": 12,
+        "execution_time": 0.0003333091735839844,
+        "average_lower_bound": 6.433333333333334,
+        "ratio": 0.5361111111111111
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 101,
+        "optimal_cost": 16,
+        "execution_time": 0.0010454654693603516,
+        "average_lower_bound": 9.366336633663366,
+        "ratio": 0.5853960396039604
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 25,
+        "optimal_cost": 10,
+        "execution_time": 0.00025153160095214844,
+        "average_lower_bound": 5.68,
+        "ratio": 0.568
+      },
+      {
+        "solution_found": true,
+        "solution_length": 15,
+        "nodes_expanded": 89,
+        "optimal_cost": 15,
+        "execution_time": 0.0009081363677978516,
+        "average_lower_bound": 9.426966292134832,
+        "ratio": 0.6284644194756555
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 300,
+        "optimal_cost": 20,
+        "execution_time": 0.003382444381713867,
+        "average_lower_bound": 11.663333333333334,
+        "ratio": 0.5831666666666667
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 151,
+        "optimal_cost": 16,
+        "execution_time": 0.0016155242919921875,
+        "average_lower_bound": 9.026490066225165,
+        "ratio": 0.5641556291390728
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 139,
+        "optimal_cost": 18,
+        "execution_time": 0.0014688968658447266,
+        "average_lower_bound": 10.33093525179856,
+        "ratio": 0.5739408473221422
+      },
+      {
+        "solution_found": true,
+        "solution_length": 23,
+        "nodes_expanded": 1573,
+        "optimal_cost": 23,
+        "execution_time": 0.0273282527923584,
+        "average_lower_bound": 11.531468531468532,
+        "ratio": 0.5013681970203709
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 113,
+        "optimal_cost": 16,
+        "execution_time": 0.0012240409851074219,
+        "average_lower_bound": 9.185840707964601,
+        "ratio": 0.5741150442477876
+      },
+      {
+        "solution_found": true,
+        "solution_length": 19,
+        "nodes_expanded": 381,
+        "optimal_cost": 19,
+        "execution_time": 0.0045816898345947266,
+        "average_lower_bound": 10.249343832020998,
+        "ratio": 0.5394391490537367
+      },
+      {
+        "solution_found": true,
+        "solution_length": 12,
+        "nodes_expanded": 49,
+        "optimal_cost": 12,
+        "execution_time": 0.0005221366882324219,
+        "average_lower_bound": 6.979591836734694,
+        "ratio": 0.5816326530612245
+      },
+      {
+        "solution_found": true,
+        "solution_length": 9,
+        "nodes_expanded": 22,
+        "optimal_cost": 9,
+        "execution_time": 0.0002295970916748047,
+        "average_lower_bound": 5.409090909090909,
+        "ratio": 0.601010101010101
+      },
+      {
+        "solution_found": true,
+        "solution_length": 5,
+        "nodes_expanded": 12,
+        "optimal_cost": 5,
+        "execution_time": 0.00012946128845214844,
+        "average_lower_bound": 3.25,
+        "ratio": 0.65
+      },
+      {
+        "solution_found": true,
+        "solution_length": 14,
+        "nodes_expanded": 35,
+        "optimal_cost": 14,
+        "execution_time": 0.00035572052001953125,
+        "average_lower_bound": 7.428571428571429,
+        "ratio": 0.5306122448979592
+      },
+      {
+        "solution_found": true,
+        "solution_length": 9,
+        "nodes_expanded": 29,
+        "optimal_cost": 9,
+        "execution_time": 0.00029754638671875,
+        "average_lower_bound": 4.517241379310345,
+        "ratio": 0.5019157088122606
+      },
+      {
+        "solution_found": true,
+        "solution_length": 19,
+        "nodes_expanded": 226,
+        "optimal_cost": 19,
+        "execution_time": 0.002498626708984375,
+        "average_lower_bound": 11.216814159292035,
+        "ratio": 0.5903586399627386
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 182,
+        "optimal_cost": 16,
+        "execution_time": 0.001982450485229492,
+        "average_lower_bound": 8.917582417582418,
+        "ratio": 0.5573489010989011
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 135,
+        "optimal_cost": 17,
+        "execution_time": 0.0014328956604003906,
+        "average_lower_bound": 10.251851851851852,
+        "ratio": 0.6030501089324618
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 99,
+        "optimal_cost": 16,
+        "execution_time": 0.001035451889038086,
+        "average_lower_bound": 9.929292929292929,
+        "ratio": 0.6205808080808081
+      },
+      {
+        "solution_found": true,
+        "solution_length": 14,
+        "nodes_expanded": 130,
+        "optimal_cost": 14,
+        "execution_time": 0.0014095306396484375,
+        "average_lower_bound": 8.3,
+        "ratio": 0.5928571428571429
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 77,
+        "optimal_cost": 17,
+        "execution_time": 0.0008065700531005859,
+        "average_lower_bound": 10.519480519480519,
+        "ratio": 0.6187929717341482
+      },
+      {
+        "solution_found": true,
+        "solution_length": 14,
+        "nodes_expanded": 81,
+        "optimal_cost": 14,
+        "execution_time": 0.0008578300476074219,
+        "average_lower_bound": 8.493827160493828,
+        "ratio": 0.6067019400352734
+      },
+      {
+        "solution_found": true,
+        "solution_length": 19,
+        "nodes_expanded": 189,
+        "optimal_cost": 19,
+        "execution_time": 0.0020635128021240234,
+        "average_lower_bound": 11.301587301587302,
+        "ratio": 0.5948203842940686
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 27,
+        "optimal_cost": 10,
+        "execution_time": 0.0002875328063964844,
+        "average_lower_bound": 5.777777777777778,
+        "ratio": 0.5777777777777777
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 502,
+        "optimal_cost": 20,
+        "execution_time": 0.007945537567138672,
+        "average_lower_bound": 10.770916334661354,
+        "ratio": 0.5385458167330677
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 85,
+        "optimal_cost": 17,
+        "execution_time": 0.0008974075317382812,
+        "average_lower_bound": 10.552941176470588,
+        "ratio": 0.6207612456747404
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 52,
+        "optimal_cost": 10,
+        "execution_time": 0.0005011558532714844,
+        "average_lower_bound": 5.711538461538462,
+        "ratio": 0.5711538461538461
+      },
+      {
+        "solution_found": true,
+        "solution_length": 22,
+        "nodes_expanded": 1969,
+        "optimal_cost": 22,
+        "execution_time": 0.037177324295043945,
+        "average_lower_bound": 10.303707465718638,
+        "ratio": 0.4683503393508472
+      },
+      {
+        "solution_found": true,
+        "solution_length": 5,
+        "nodes_expanded": 12,
+        "optimal_cost": 5,
+        "execution_time": 0.0001556873321533203,
+        "average_lower_bound": 3.25,
+        "ratio": 0.65
+      },
+      {
+        "solution_found": true,
+        "solution_length": 15,
+        "nodes_expanded": 109,
+        "optimal_cost": 15,
+        "execution_time": 0.0011513233184814453,
+        "average_lower_bound": 8.825688073394495,
+        "ratio": 0.5883792048929664
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 628,
+        "optimal_cost": 20,
+        "execution_time": 0.008183956146240234,
+        "average_lower_bound": 10.124203821656051,
+        "ratio": 0.5062101910828025
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 249,
+        "optimal_cost": 17,
+        "execution_time": 0.0028183460235595703,
+        "average_lower_bound": 9.04417670682731,
+        "ratio": 0.5320103945192535
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 233,
+        "optimal_cost": 18,
+        "execution_time": 0.0030794143676757812,
+        "average_lower_bound": 10.390557939914164,
+        "ratio": 0.5772532188841202
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 30,
+        "optimal_cost": 10,
+        "execution_time": 0.00032806396484375,
+        "average_lower_bound": 5.066666666666666,
+        "ratio": 0.5066666666666666
+      },
+      {
+        "solution_found": true,
+        "solution_length": 14,
+        "nodes_expanded": 62,
+        "optimal_cost": 14,
+        "execution_time": 0.0006663799285888672,
+        "average_lower_bound": 8.258064516129032,
+        "ratio": 0.5898617511520737
+      },
+      {
+        "solution_found": true,
+        "solution_length": 12,
+        "nodes_expanded": 56,
+        "optimal_cost": 12,
+        "execution_time": 0.0005800724029541016,
+        "average_lower_bound": 7.267857142857143,
+        "ratio": 0.605654761904762
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 239,
+        "optimal_cost": 17,
+        "execution_time": 0.002758502960205078,
+        "average_lower_bound": 9.142259414225942,
+        "ratio": 0.5377799655427025
+      },
+      {
+        "solution_found": true,
+        "solution_length": 5,
+        "nodes_expanded": 12,
+        "optimal_cost": 5,
+        "execution_time": 0.00012922286987304688,
+        "average_lower_bound": 3.5833333333333335,
+        "ratio": 0.7166666666666667
+      },
+      {
+        "solution_found": true,
+        "solution_length": 11,
+        "nodes_expanded": 23,
+        "optimal_cost": 11,
+        "execution_time": 0.0002422332763671875,
+        "average_lower_bound": 6.608695652173913,
+        "ratio": 0.6007905138339921
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 188,
+        "optimal_cost": 16,
+        "execution_time": 0.002109527587890625,
+        "average_lower_bound": 8.877659574468085,
+        "ratio": 0.5548537234042553
+      },
+      {
+        "solution_found": true,
+        "solution_length": 6,
+        "nodes_expanded": 11,
+        "optimal_cost": 6,
+        "execution_time": 0.0001227855682373047,
+        "average_lower_bound": 3.6363636363636362,
+        "ratio": 0.6060606060606061
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 201,
+        "optimal_cost": 20,
+        "execution_time": 0.0022614002227783203,
+        "average_lower_bound": 11.73134328358209,
+        "ratio": 0.5865671641791045
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 166,
+        "optimal_cost": 17,
+        "execution_time": 0.0018384456634521484,
+        "average_lower_bound": 9.951807228915662,
+        "ratio": 0.5854004252303331
+      },
+      {
+        "solution_found": true,
+        "solution_length": 5,
+        "nodes_expanded": 12,
+        "optimal_cost": 5,
+        "execution_time": 0.00012969970703125,
+        "average_lower_bound": 3.25,
+        "ratio": 0.65
+      },
+      {
+        "solution_found": true,
+        "solution_length": 2,
+        "nodes_expanded": 5,
+        "optimal_cost": 2,
+        "execution_time": 5.364418029785156e-05,
+        "average_lower_bound": 1.6,
+        "ratio": 0.8
+      },
+      {
+        "solution_found": true,
+        "solution_length": 14,
+        "nodes_expanded": 46,
+        "optimal_cost": 14,
+        "execution_time": 0.0004911422729492188,
+        "average_lower_bound": 7.391304347826087,
+        "ratio": 0.5279503105590062
+      },
+      {
+        "solution_found": true,
+        "solution_length": 22,
+        "nodes_expanded": 910,
+        "optimal_cost": 22,
+        "execution_time": 0.013586997985839844,
+        "average_lower_bound": 11.70989010989011,
+        "ratio": 0.5322677322677323
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 30,
+        "optimal_cost": 10,
+        "execution_time": 0.0003421306610107422,
+        "average_lower_bound": 6.1,
+        "ratio": 0.61
+      },
+      {
+        "solution_found": true,
+        "solution_length": 7,
+        "nodes_expanded": 20,
+        "optimal_cost": 7,
+        "execution_time": 0.0002143383026123047,
+        "average_lower_bound": 4.45,
+        "ratio": 0.6357142857142858
+      },
+      {
+        "solution_found": true,
+        "solution_length": 11,
+        "nodes_expanded": 34,
+        "optimal_cost": 11,
+        "execution_time": 0.0003705024719238281,
+        "average_lower_bound": 6.617647058823529,
+        "ratio": 0.6016042780748663
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 350,
+        "optimal_cost": 18,
+        "execution_time": 0.004301548004150391,
+        "average_lower_bound": 9.271428571428572,
+        "ratio": 0.5150793650793651
+      },
+      {
+        "solution_found": true,
+        "solution_length": 11,
+        "nodes_expanded": 58,
+        "optimal_cost": 11,
+        "execution_time": 0.0009469985961914062,
+        "average_lower_bound": 6.275862068965517,
+        "ratio": 0.5705329153605015
+      },
+      {
+        "solution_found": true,
+        "solution_length": 8,
+        "nodes_expanded": 19,
+        "optimal_cost": 8,
+        "execution_time": 0.0002219676971435547,
+        "average_lower_bound": 4.631578947368421,
+        "ratio": 0.5789473684210527
+      },
+      {
+        "solution_found": true,
+        "solution_length": 13,
+        "nodes_expanded": 82,
+        "optimal_cost": 13,
+        "execution_time": 0.0009181499481201172,
+        "average_lower_bound": 7.865853658536586,
+        "ratio": 0.6050656660412759
+      },
+      {
+        "solution_found": true,
+        "solution_length": 24,
+        "nodes_expanded": 1894,
+        "optimal_cost": 24,
+        "execution_time": 0.03742551803588867,
+        "average_lower_bound": 12.231256599788807,
+        "ratio": 0.5096356916578669
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 306,
+        "optimal_cost": 20,
+        "execution_time": 0.00372314453125,
+        "average_lower_bound": 10.970588235294118,
+        "ratio": 0.5485294117647059
+      },
+      {
+        "solution_found": true,
+        "solution_length": 8,
+        "nodes_expanded": 21,
+        "optimal_cost": 8,
+        "execution_time": 0.00023221969604492188,
+        "average_lower_bound": 4.666666666666667,
+        "ratio": 0.5833333333333334
+      },
+      {
+        "solution_found": true,
+        "solution_length": 8,
+        "nodes_expanded": 21,
+        "optimal_cost": 8,
+        "execution_time": 0.00022673606872558594,
+        "average_lower_bound": 4.666666666666667,
+        "ratio": 0.5833333333333334
+      },
+      {
+        "solution_found": true,
+        "solution_length": 9,
+        "nodes_expanded": 27,
+        "optimal_cost": 9,
+        "execution_time": 0.0002930164337158203,
+        "average_lower_bound": 5.333333333333333,
+        "ratio": 0.5925925925925926
+      },
+      {
+        "solution_found": true,
+        "solution_length": 23,
+        "nodes_expanded": 3120,
+        "optimal_cost": 23,
+        "execution_time": 0.07979536056518555,
+        "average_lower_bound": 10.336538461538462,
+        "ratio": 0.44941471571906355
+      },
+      {
+        "solution_found": true,
+        "solution_length": 21,
+        "nodes_expanded": 795,
+        "optimal_cost": 21,
+        "execution_time": 0.011671066284179688,
+        "average_lower_bound": 10.869182389937107,
+        "ratio": 0.5175801138065289
+      },
+      {
+        "solution_found": true,
+        "solution_length": 7,
+        "nodes_expanded": 15,
+        "optimal_cost": 7,
+        "execution_time": 0.00017690658569335938,
+        "average_lower_bound": 4.4,
+        "ratio": 0.6285714285714287
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 450,
+        "optimal_cost": 18,
+        "execution_time": 0.005589723587036133,
+        "average_lower_bound": 8.911111111111111,
+        "ratio": 0.49506172839506174
+      },
+      {
+        "solution_found": true,
+        "solution_length": 15,
+        "nodes_expanded": 103,
+        "optimal_cost": 15,
+        "execution_time": 0.0011665821075439453,
+        "average_lower_bound": 8.970873786407767,
+        "ratio": 0.5980582524271845
+      },
+      {
+        "solution_found": true,
+        "solution_length": 13,
+        "nodes_expanded": 50,
+        "optimal_cost": 13,
+        "execution_time": 0.0005354881286621094,
+        "average_lower_bound": 8.1,
+        "ratio": 0.6230769230769231
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 157,
+        "optimal_cost": 16,
+        "execution_time": 0.0017292499542236328,
+        "average_lower_bound": 9.050955414012739,
+        "ratio": 0.5656847133757962
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 420,
+        "optimal_cost": 20,
+        "execution_time": 0.00523066520690918,
+        "average_lower_bound": 10.747619047619047,
+        "ratio": 0.5373809523809523
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 77,
+        "optimal_cost": 16,
+        "execution_time": 0.0008232593536376953,
+        "average_lower_bound": 9.480519480519481,
+        "ratio": 0.5925324675324676
+      },
+      {
+        "solution_found": true,
+        "solution_length": 22,
+        "nodes_expanded": 973,
+        "optimal_cost": 22,
+        "execution_time": 0.014517068862915039,
+        "average_lower_bound": 11.422404933196301,
+        "ratio": 0.5192002242361955
+      },
+      {
+        "solution_found": true,
+        "solution_length": 24,
+        "nodes_expanded": 1842,
+        "optimal_cost": 24,
+        "execution_time": 0.03635239601135254,
+        "average_lower_bound": 12.024972855591749,
+        "ratio": 0.5010405356496562
+      },
+      {
+        "solution_found": true,
+        "solution_length": 20,
+        "nodes_expanded": 652,
+        "optimal_cost": 20,
+        "execution_time": 0.008709907531738281,
+        "average_lower_bound": 10.0,
+        "ratio": 0.5
+      },
+      {
+        "solution_found": true,
+        "solution_length": 9,
+        "nodes_expanded": 33,
+        "optimal_cost": 9,
+        "execution_time": 0.0003674030303955078,
+        "average_lower_bound": 5.515151515151516,
+        "ratio": 0.6127946127946129
+      },
+      {
+        "solution_found": true,
+        "solution_length": 19,
+        "nodes_expanded": 348,
+        "optimal_cost": 19,
+        "execution_time": 0.00420069694519043,
+        "average_lower_bound": 11.129310344827585,
+        "ratio": 0.5857531760435571
+      },
+      {
+        "solution_found": true,
+        "solution_length": 24,
+        "nodes_expanded": 1984,
+        "optimal_cost": 24,
+        "execution_time": 0.039092302322387695,
+        "average_lower_bound": 11.81350806451613,
+        "ratio": 0.49222950268817206
+      },
+      {
+        "solution_found": true,
+        "solution_length": 21,
+        "nodes_expanded": 971,
+        "optimal_cost": 21,
+        "execution_time": 0.014450311660766602,
+        "average_lower_bound": 10.692070030895984,
+        "ratio": 0.5091461919474278
+      },
+      {
+        "solution_found": true,
+        "solution_length": 10,
+        "nodes_expanded": 25,
+        "optimal_cost": 10,
+        "execution_time": 0.0002932548522949219,
+        "average_lower_bound": 6.16,
+        "ratio": 0.616
+      },
+      {
+        "solution_found": true,
+        "solution_length": 17,
+        "nodes_expanded": 154,
+        "optimal_cost": 17,
+        "execution_time": 0.0017390251159667969,
+        "average_lower_bound": 10.0,
+        "ratio": 0.5882352941176471
+      },
+      {
+        "solution_found": true,
+        "solution_length": 5,
+        "nodes_expanded": 12,
+        "optimal_cost": 5,
+        "execution_time": 0.00013518333435058594,
+        "average_lower_bound": 3.25,
+        "ratio": 0.65
+      },
+      {
+        "solution_found": true,
+        "solution_length": 19,
+        "nodes_expanded": 319,
+        "optimal_cost": 19,
+        "execution_time": 0.003770112991333008,
+        "average_lower_bound": 10.862068965517242,
+        "ratio": 0.5716878402903811
+      },
+      {
+        "solution_found": true,
+        "solution_length": 12,
+        "nodes_expanded": 24,
+        "optimal_cost": 12,
+        "execution_time": 0.0002605915069580078,
+        "average_lower_bound": 6.541666666666667,
+        "ratio": 0.545138888888889
+      },
+      {
+        "solution_found": true,
+        "solution_length": 13,
+        "nodes_expanded": 70,
+        "optimal_cost": 13,
+        "execution_time": 0.0007524490356445312,
+        "average_lower_bound": 7.9,
+        "ratio": 0.6076923076923078
+      },
+      {
+        "solution_found": true,
+        "solution_length": 18,
+        "nodes_expanded": 370,
+        "optimal_cost": 18,
+        "execution_time": 0.004479646682739258,
+        "average_lower_bound": 9.727027027027027,
+        "ratio": 0.5403903903903904
+      },
+      {
+        "solution_found": true,
+        "solution_length": 14,
+        "nodes_expanded": 92,
+        "optimal_cost": 14,
+        "execution_time": 0.0010111331939697266,
+        "average_lower_bound": 7.782608695652174,
+        "ratio": 0.5559006211180124
+      },
+      {
+        "solution_found": true,
+        "solution_length": 19,
+        "nodes_expanded": 258,
+        "optimal_cost": 19,
+        "execution_time": 0.0029854774475097656,
+        "average_lower_bound": 10.554263565891473,
+        "ratio": 0.5554875560995512
+      },
+      {
+        "solution_found": true,
+        "solution_length": 21,
+        "nodes_expanded": 589,
+        "optimal_cost": 21,
+        "execution_time": 0.008804798126220703,
+        "average_lower_bound": 11.185059422750424,
+        "ratio": 0.5326218772738297
+      },
+      {
+        "solution_found": true,
+        "solution_length": 16,
+        "nodes_expanded": 99,
+        "optimal_cost": 16,
+        "execution_time": 0.0011315345764160156,
+        "average_lower_bound": 9.222222222222221,
+        "ratio": 0.5763888888888888
+      },
+      {
+        "solution_found": true,
+        "solution_length": 15,
+        "nodes_expanded": 138,
+        "optimal_cost": 15,
+        "execution_time": 0.0015528202056884766,
+        "average_lower_bound": 8.217391304347826,
+        "ratio": 0.5478260869565218
+      }
+    ]
+  }
+}
